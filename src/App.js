@@ -1,7 +1,6 @@
 
 import './App.css';
 import ParentComponent from './PureComponent/ParentComponent';
-import Purecomp from './PureComponent/PureComponent';
 import Count from './HOC/Count';
 import Count1 from './HOC/Count1';
 
